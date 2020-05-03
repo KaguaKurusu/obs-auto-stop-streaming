@@ -6,7 +6,7 @@
 設定したシーンに遷移後、設定時間経過したら自動的にOBSの配信停止をするプラグインです。
 
 ## ダウンロード
-[リリースページ](releases/)よりご利用の環境に合ったファイルをダウンロードしてください。
+[リリースページ](https://github.com/KaguaKurusu/obs-auto-stop-streaming/releases/)よりご利用の環境に合ったファイルをダウンロードしてください。
 - 32bit版をご利用の場合はrelease_x86.zip
 - 64bit版をご利用の場合はrelease_x64.zip
 
