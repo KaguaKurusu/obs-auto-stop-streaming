@@ -33,8 +33,7 @@ OBS 25.0.8にてテスト済み
 
 ## ビルド方法
 ### 事前準備
-Microsoft Visual Studio 2019 VC++  
-cmakeのあるフォルダにパスを通しておく。  
+Microsoft Visual Studio 2019 VC++をインストールしてcmakeのあるフォルダにパスを通しておく。  
 コマンドプロンプトにて以下を実行。  
 `prebuild.bat`
 
