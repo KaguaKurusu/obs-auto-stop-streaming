@@ -1,6 +1,6 @@
 # obs-auto-stop-streaming
 **配信を自動停止するOpen Broadcast Software Studio用のプラグイン**  
-[![License GPL v2](https://img.shields.io/badge/license-GPL％20v2-blue)](LICENSE)
+[![License GPL v2](https://img.shields.io/badge/license-GPLv2-blue)](LICENSE)
 
 ## 概要
 設定したシーンに遷移後、設定時間経過したら自動的にOBSの配信停止をするプラグインです。
